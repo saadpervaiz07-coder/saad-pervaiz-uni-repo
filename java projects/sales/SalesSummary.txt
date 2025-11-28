@@ -1,0 +1,37 @@
+========================================
+            SALES ANALYSIS
+========================================
+
+Grand Total Sales Amount : 9534.00
+
+----- Employee-wise Sales (Rep ID) -----
+E011     : 2624.00
+E013     : 2542.00
+E012     : 2201.00
+E014     : 2167.00
+
+----- Product-wise Sales -----
+Product B  : 4470.00
+Product A  : 2340.00
+Product C  : 1864.00
+Product D  : 860.00
+
+----- Region-wise Sales -----
+North      : 2624.00
+East       : 2542.00
+South      : 2201.00
+West       : 2167.00
+
+----- Month-wise Sales (Jan → Dec) -----
+January    : 0.00
+February   : 0.00
+March      : 0.00
+April      : 0.00
+May        : 0.00
+June       : 3722.00
+July       : 3069.00
+August     : 2743.00
+September  : 0.00
+October    : 0.00
+November   : 0.00
+December   : 0.00
