@@ -1,0 +1,6 @@
+cd "G:\123New Saad Docs\BSSE (Software Engineering)\BSSE-2nd_Semester\Java in OOP\DCS-BSSE-SEM-II\Assignment - 01\"
+
+javac -cp ".;lib\itextpdf-5.5.13.3.jar" EBookMainClass.java
+
+java -cp ".;lib\itextpdf-5.5.13.3.jar" EBookMainClass
+
